@@ -5,11 +5,9 @@
 	
 These movies are funny and romantic
 ## Classes:
-### - MCB185
-	Computer programing for biologists
-### - MCB182
-		principles of Genomics
-### - MCB160L -Genetics Laboratory
+### - MCB185 - Computer programing for biologists
+### - MCB182 - principles of Genomics
+### - MCB160L - Genetics Laboratory
 `
 these classes are related to Molecular and Cellular Biology
 `
