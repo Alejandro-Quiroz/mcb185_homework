@@ -4,12 +4,12 @@
 	+ Kung Fu Hustle
 These movies are funny and romantic
 ## Classes:
-### MCB185 - Computer Programing for Biologists
-I do things like write code in the terminal or text editor
-###	MCB182 - Principles of Genomics
-	I do things like study algorithms and equations
-###	MCB160L - Genetics Laboratory
-		I do things like pippet and miniPreps
+	### MCB185 - Computer Programing for Biologists
+		I do things like write code in the terminal or text editor
+	###	MCB182 - Principles of Genomics
+		I do things like study algorithms and equations
+	###	MCB160L - Genetics Laboratory
+			I do things like pippet and miniPreps
 
 `
 these classes are all related to Molecular and Cellular Biology
