@@ -26,15 +26,16 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Asked a question in class
 	+ Introduced myself to Chris B
 	+ Didn't come to class Thursday to save you from getting sick
-	+ Total 4 points
+	+ Total 4 points.
 - Week 1
 	+ Attended class Tuesday
 	+ Attended class Thursday
 	+ Introduced myself to Theo
-	+ Total 3 points
+	+ Total 3 points.
 - Week 2
 	+ attended class Tuesday
 	+ I met with Carolina on Thursday
+	+ Total 2 points.
 
 - Week 3
 - Week 4
