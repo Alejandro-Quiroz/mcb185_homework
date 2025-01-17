@@ -5,20 +5,20 @@
 	
 These movies are funny and romantic
 ## Classes:
-	### -MCB185
+### - MCB185
 	Computer programing for biologists
-	### -MCB182
+### - MCB182
 		principles of Genomics
-	### -MCB160L
-'
+### - MCB160L -Genetics Laboratory
+`
 these classes are related to Molecular and Cellular Biology
-'
+`
 	
 ## Sports:
 	* Soccer
 	* walking
 	
-	```
-	Walking is not a sport but I like to think of it as one.
-	```
+```
+Walking is not a sport but I like to think of it as one.
+```
 	
