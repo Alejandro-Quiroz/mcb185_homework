@@ -3,4 +3,4 @@
 -Bruce Lee
 
 ### Roses are red, violets are blue, sugar is sweet and so are you.
-+ idk, I just remember this from 3rd grade
+-idk, I just remember this from 3rd grade
