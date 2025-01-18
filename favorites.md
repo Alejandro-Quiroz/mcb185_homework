@@ -1,4 +1,4 @@
-My favorite things:
+## My favorite things: ##
 	Movies
 		+The Mummy
 		+kung fu hustle
@@ -10,4 +10,3 @@ My favorite things:
 		
 	Sports
 		+soccer
-		+
