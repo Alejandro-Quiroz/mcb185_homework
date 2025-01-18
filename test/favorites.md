@@ -1,7 +1,7 @@
 # Some of my favorite things #
 ## Movies: ##
-	+The Mummy
-	+Kung Fu Hustle
+	+	The Mummy
+	+	Kung Fu Hustle
 These movies are funny and romantic
 ## Classes:
 ### MCB185 - Computer Programing for Biologists
