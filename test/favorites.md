@@ -1,7 +1,7 @@
 # Some of my favorite things #
 ## Movies: ##
-	+ The Mummy
-	+ Kung Fu Hustle
+	+The Mummy
+	+Kung Fu Hustle
 These movies are funny and romantic
 ## Classes:
 ### MCB185 - Computer Programing for Biologists
@@ -16,8 +16,8 @@ these classes are all related to Molecular and Cellular Biology
 `
 	
 ## Sports:
-	*Soccer
-	*walking
+*Soccer
+*walking
 	
 ```
 Walking is not a sport but I like to think of it as one.
