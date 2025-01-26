@@ -1,0 +1,138 @@
+Sat Jan 25 13:05:55 PST 2025
+CYGWIN_NT-10.0-22631 DESKTOP-4IT3G52 3.4.10-1.x86_64 2023-11-29 12:12 UTC x86_64 Cygwin
+ProgramFiles(x86)=C:\Program Files (x86)
+!::=::\
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+SHELL=/bin/bash
+NUMBER_OF_PROCESSORS=12
+PROCESSOR_LEVEL=6
+TERM_PROGRAM_VERSION=3.7.0
+platformcode=KV
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-4IT3G52
+HOSTNAME=DESKTOP-4IT3G52
+PROGRAMFILES=C:\Program Files
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+OS=Windows_NT
+HOMEDRIVE=C:
+USERDOMAIN=DESKTOP-4IT3G52
+PWD=/home/alexq/Code/mcb185_homework
+USERPROFILE=C:\Users\alexq
+OneDriveConsumer=C:\Users\alexq\OneDrive
+PRINTER=EPSON3264F7 (ET-2850 Series)
+TZ=America/Los_Angeles
+ALLUSERSPROFILE=C:\ProgramData
+ORIGINAL_PATH=/cygdrive/c/windows/system32:/cygdrive/c/windows:/cygdrive/c/windows/System32/Wbem:/cygdrive/c/windows/System32/WindowsPowerShell/v1.0:/cygdrive/c/windows/System32/OpenSSH:/cygdrive/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/cygdrive/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/cygdrive/c/Program Files (x86)/Pulse Secure/VC142.CRT/X64:/cygdrive/c/Program Files (x86)/Pulse Secure/VC142.CRT/X86:%SystemRoot%/system32:%SystemRoot%:%SystemRoot%/System32/Wbem:%SYSTEMROOT%/System32/WindowsPowerShell/v1.0:%SYSTEMROOT%/System32/OpenSSH:/cygdrive/c/Program Files/HP/HP One Agent:/cygdrive/c/Program Files/MATLAB/R2024a/bin:/cygdrive/c/Users/alexq/AppData/Local/Microsoft/WindowsApps
+CommonProgramW6432=C:\Program Files\Common Files
+HOME=/home/alexq
+USERNAME=alexq
+OneDrive=C:\Users\alexq\OneDrive
+COMSPEC=C:\WINDOWS\system32\cmd.exe
+EFC_10344=1
+RegionCode=NA
+APPDATA=C:\Users\alexq\AppData\Roaming
+SYSTEMROOT=C:\WINDOWS
+LOCALAPPDATA=C:\Users\alexq\AppData\Local
+COMPUTERNAME=DESKTOP-4IT3G52
+INFOPATH=/usr/local/info:/usr/share/info:/usr/info
+TERM=xterm
+LOGONSERVER=\\DESKTOP-4IT3G52
+ZES_ENABLE_SYSMAN=1
+USER=alexq
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+TEMP=/tmp
+SHLVL=2
+PROCESSOR_REVISION=a502
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+LC_CTYPE=en_US.UTF-8
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+SESSIONNAME=Console
+HOMEPATH=\Users\alexq
+TMP=/tmp
+PATH=/usr/local/bin:/usr/bin:/cygdrive/c/windows/system32:/cygdrive/c/windows:/cygdrive/c/windows/System32/Wbem:/cygdrive/c/windows/System32/WindowsPowerShell/v1.0:/cygdrive/c/windows/System32/OpenSSH:/cygdrive/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/cygdrive/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/cygdrive/c/Program Files (x86)/Pulse Secure/VC142.CRT/X64:/cygdrive/c/Program Files (x86)/Pulse Secure/VC142.CRT/X86:%SystemRoot%/system32:%SystemRoot%:%SystemRoot%/System32/Wbem:%SYSTEMROOT%/System32/WindowsPowerShell/v1.0:%SYSTEMROOT%/System32/OpenSSH:/cygdrive/c/Program Files/HP/HP One Agent:/cygdrive/c/Program Files/MATLAB/R2024a/bin:/cygdrive/c/Users/alexq/AppData/Local/Microsoft/WindowsApps
+ProgramW6432=C:\Program Files
+OnlineServices=Online Services
+PROFILEREAD=true
+MINTTY_SHORTCUT=/cygdrive/c/ProgramData/Microsoft/Windows/Start Menu/Programs/Cygwin/Cygwin64 Terminal.lnk
+WINDIR=C:\WINDOWS
+PROCESSOR_ARCHITECTURE=AMD64
+PUBLIC=C:\Users\Public
+SYSTEMDRIVE=C:
+EXECIGNORE=*.dll
+OLDPWD=/home/alexq/Code/MCB185/data
+TERM_PROGRAM=mintty
+ProgramData=C:\ProgramData
+_=/usr/bin/printenv
+Python 3.9.16
+/home/alexq/Code:
+MCB185
+mcb185_homework
+
+/home/alexq/Code/MCB185:
+LICENSE
+README.md
+course
+data
+ref
+src
+
+/home/alexq/Code/MCB185/course:
+participation.md
+unit0-unix.md
+unit1-calculations.md
+unit2-iteration.md
+unit3-containers.md
+unit4-sequences.md
+unit5-words.md
+unit6-data.md
+unit7-executables.md
+
+/home/alexq/Code/MCB185/data:
+A.thaliana.fa.gz
+A.thaliana.gff.gz
+C.elegans.fa.gz
+C.elegans.gff.gz
+C.elegans.vcf.gz
+C.elegans_transcripts.fa.gz
+D.melanogaster.fa.gz
+D.melanogaster.gff.gz
+GCF_000005845.2_ASM584v2_genomic.fna.gz
+GCF_000005845.2_ASM584v2_genomic.gbff.gz
+GCF_000005845.2_ASM584v2_genomic.gff.gz
+GCF_000005845.2_ASM584v2_protein.faa.gz
+README.md
+colors_basic.tsv
+colors_extended.tsv
+dictionary.gz
+jaspar2024_core.transfac.gz
+primers.csv
+
+/home/alexq/Code/MCB185/ref:
+LINUX_REFERENCE.md
+PYTHON_COOKBOOK.md
+PYTHON_REFERENCE.md
+
+/home/alexq/Code/MCB185/src:
+mcb185.py
+
+/home/alexq/Code/mcb185_homework:
+02status.sh
+03report.txt
+10demoo.py
+LICENSE
+README.md
+ecoli.gff.gz
+participation.md
+practice.py
+test
+unit_one_stuff
+
+/home/alexq/Code/mcb185_homework/test:
+colors.txt
+favorites.md
+
+/home/alexq/Code/mcb185_homework/unit_one_stuff:
+00hello.sh
+01hello.py
+exam.sh
+poetry.txt
