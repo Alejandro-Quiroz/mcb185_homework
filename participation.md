@@ -38,6 +38,10 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Total 2 points.
 
 - Week 3
+	+ asked some questions during Tuesday Lecture
+	+ i met Sofia and Jenna during Thursday Lecture
+	+ Total 2 points.
+	
 - Week 4
 - Week 5
 - Week 6
