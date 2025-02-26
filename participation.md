@@ -43,9 +43,24 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Total 2 points.
 	
 - Week 4
+	+ I asked for help on a practice assessment on Tuesday
+	+ I hosted a Coderie with Jenna and Kristy
+	+ Total 2 points.
 - Week 5
+	+ I attended Tuesday class and met Orlando.
+	+ I attended Thursday class and hosted a coderie with many people.
+	+ Total 2 points.
 - Week 6
+	+ I attended Tuesday class and hosted a Coderie with mainly Cat
+	+ I attended Thursday class
+	+ Total 2 points.
 - Week 7
+	+ I attended Tuesday class
+	+ I attended Thursday class and hosted a Coderie with Jenna and Zusy.
+	+ Total 2 points.
+	
 - Week 8
+	+ I attended Tuesday class
+	+ 
 - Week 9
 - Week 10
