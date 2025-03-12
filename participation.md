@@ -61,6 +61,12 @@ more than one point per category. There is a maximum of 5 points each week.
 	
 - Week 8
 	+ I attended Tuesday class
-	+ 
+	+ Did not host a Coderie; minus one point.
+	+ Total 1 point.
 - Week 9
+	+ I attended Tuesday class
+	+ I hosted Coderie on thursday
+	+ Total 2 points.
 - Week 10
+	+ I attended Tuesday lecture
+	+ 
