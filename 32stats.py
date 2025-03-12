@@ -78,13 +78,17 @@ sum=0
 for i in range(len(data)):
 	sum = sum + data[i]
 halfway = sum/2
-
-total = 0
+print('with sum of', sum)
+print('and halfway of',halfway)
+total_so_far = 0
 for dat in data:
-	total = total + dat
-	if total > halfway:
-		print('N50=',dat,'with sum of',total)
+	total_so_far = total_so_far + dat
+	if total_so_far > halfway:
+		print('N50=',dat,'with total_so_far of',total_so_far)
 		break
+
+
+
 
 print('sample size=',j+1) #to print final calculation.
 print('min_value=',min_value)
