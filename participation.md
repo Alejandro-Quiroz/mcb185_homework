@@ -69,4 +69,6 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Total 2 points.
 - Week 10
 	+ I attended Tuesday lecture
-	+ 
+	+ I attended Thursday lecture and hosted a coderie with orlando,jenna,jedikayle,carolina, and maybe someone else.
+	+ I don't know how to use AI
+	+ Total 3 points.
